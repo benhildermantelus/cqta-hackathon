@@ -1,0 +1,6 @@
+{
+  "name": "Keel",
+  "description": "An interactive SRE and performance testing simulator powered by Gemini. Resilience you can talk to.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
