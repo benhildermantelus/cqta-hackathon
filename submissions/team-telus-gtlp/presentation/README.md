@@ -1,9 +1,9 @@
 # Presentation
 
 ## 🎬 Demo Video
-**[Watch the Keel demo on Google Drive](https://drive.google.com/file/d/1i0tpB-dHFfFq1N3gRrX_eAg7Q1HKY2s8/view?usp=sharing)**
+**[Watch the Keel demo on YouTube](https://youtu.be/IQ1bTmSWtZ8)**
 
-The full recording (`Keel.mp4`, about 407 MB) is hosted on Google Drive rather than committed to the repository, in line with the contribution guidance on linking large recordings and GitHub's 100 MB per file limit.
+The demo is hosted on YouTube rather than committed to the repository, in line with the contribution guidance on linking recordings and GitHub's 100 MB per file limit.
 
 ## 📊 Pitch Deck
 [keel-pitch-deck.pdf](keel-pitch-deck.pdf)

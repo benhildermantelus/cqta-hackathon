@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🎬 <a href="https://drive.google.com/file/d/1i0tpB-dHFfFq1N3gRrX_eAg7Q1HKY2s8/view?usp=sharing"><strong>Watch the 2 minute demo video</strong></a>
+  🎬 <a href="https://youtu.be/IQ1bTmSWtZ8"><strong>Watch the 2 minute demo video</strong></a>
   &nbsp;·&nbsp;
   📊 <a href="presentation/keel-pitch-deck.pdf"><strong>Pitch deck (PDF)</strong></a>
 </p>
@@ -94,7 +94,7 @@ A single Express server hosts both the API and the Vite built React frontend. In
 
 ## Presentation
 
-**🎬 Demo video:** [Watch the demo on Google Drive](https://drive.google.com/file/d/1i0tpB-dHFfFq1N3gRrX_eAg7Q1HKY2s8/view?usp=sharing)
+**🎬 Demo video:** [Watch the demo on YouTube](https://youtu.be/IQ1bTmSWtZ8)
 
 **📊 Pitch deck:** [keel-pitch-deck.pdf](presentation/keel-pitch-deck.pdf)
 
