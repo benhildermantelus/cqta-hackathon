@@ -1,17 +1,26 @@
-# Presentation — Keel ⚓
+# Presentation
 
-This is a demo-driven submission (no slide deck).
+## 🎬 Demo Video
+**[Watch the Keel demo on Google Drive](https://drive.google.com/file/d/1i0tpB-dHFfFq1N3gRrX_eAg7Q1HKY2s8/view?usp=sharing)**
 
-## Demo Video
-- **[Keel — demo walkthrough (Google Drive)](https://drive.google.com/file/d/1i0tpB-dHFfFq1N3gRrX_eAg7Q1HKY2s8/view?usp=sharing)**
+The full recording (`Keel.mp4`, about 407 MB) is hosted on Google Drive rather than committed to the repository, in line with the contribution guidance on linking large recordings and GitHub's 100 MB per file limit.
 
-The raw recording (`Keel.mp4`, ~407 MB) is hosted on Google Drive rather than
-committed to the repository, in line with the contribution guidance to link to
-external recordings for large video files and GitHub's 100 MB per-file limit.
+## 📊 Pitch Deck
+[keel-pitch-deck.pdf](keel-pitch-deck.pdf)
+
+## Slides
+
+### Title
+![Keel title slide](keel-title.png)
+
+### Built for Adoption
+![Built for adoption slide](keel-adoption.png)
+
+### Implementation Roadmap
+![Implementation roadmap slide](keel-roadmap.png)
 
 ## Live Demo
-The application itself serves as the primary demo. See the top-level
-`../README.md` for setup, run, and step-by-step demo instructions.
+The application itself is the primary demo. See the top level [README](../README.md) for setup, run, and step by step demo instructions.
 
 ## Contact
-- Ben Hilderman — ben.hilderman@telus.com
+Team TELUS GTLP: Ben Hilderman, Anjuthan Tharmarajah, Ansia Sivakumaran, Nolan Verboomen.
