@@ -6,7 +6,7 @@
 The demo is hosted on YouTube rather than committed to the repository, in line with the contribution guidance on linking recordings and GitHub's 100 MB per file limit.
 
 ## 📊 Pitch Deck
-[keel-pitch-deck.pdf](keel-pitch-deck.pdf)
+[keel-pitch-deck.pdf](https://github.com/cqta-dev/cqta-hackathon/blob/main/submissions/team-telus-gtlp/presentation/keel-pitch-deck.pdf)
 
 ## Slides
 
