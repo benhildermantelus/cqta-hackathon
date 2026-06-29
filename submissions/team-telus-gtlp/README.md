@@ -12,7 +12,7 @@
 <p align="center">
   🎬 <a href="https://youtu.be/IQ1bTmSWtZ8"><strong>Watch the 2 minute demo video</strong></a>
   &nbsp;·&nbsp;
-  📊 <a href="https://github.com/cqta-dev/cqta-hackathon/blob/main/submissions/team-telus-gtlp/presentation/keel-pitch-deck.pdf"><strong>Pitch deck (PDF)</strong></a>
+  📊 <a href="https://github.com/benhildermantelus/cqta-hackathon/blob/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-pitch-deck.pdf"><strong>Pitch deck (PDF)</strong></a>
 </p>
 
 ---
@@ -96,7 +96,7 @@ A single Express server hosts both the API and the Vite built React frontend. In
 
 **🎬 Demo video:** [Watch the demo on YouTube](https://youtu.be/IQ1bTmSWtZ8)
 
-**📊 Pitch deck:** [keel-pitch-deck.pdf](https://github.com/cqta-dev/cqta-hackathon/blob/main/submissions/team-telus-gtlp/presentation/keel-pitch-deck.pdf)
+**📊 Pitch deck:** [keel-pitch-deck.pdf](https://github.com/benhildermantelus/cqta-hackathon/blob/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-pitch-deck.pdf)
 
 ### Built for Adoption
 Keel is designed to be adopted, not just demoed. It has a zero learning curve, a role specific interface, and standard connectors for k6, Grafana, and CI/CD. Rollout follows the Prosci ADKAR change management framework so adoption sticks.
