@@ -11,13 +11,13 @@ The demo is hosted on YouTube rather than committed to the repository, in line w
 ## Slides
 
 ### Title
-![Keel title slide](keel-title.png)
+![Keel title slide](https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-title.png)
 
 ### Built for Adoption
-![Built for adoption slide](keel-adoption.png)
+![Built for adoption slide](https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-adoption.png)
 
 ### Implementation Roadmap
-![Implementation roadmap slide](keel-roadmap.png)
+![Implementation roadmap slide](https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-roadmap.png)
 
 ## Live Demo
 The application itself is the primary demo. See the top level [README](../README.md) for setup, run, and step by step demo instructions.

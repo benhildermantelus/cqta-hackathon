@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="presentation/keel-title.png" alt="Keel. The foundation of the ship." width="820">
+  <img src="https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-title.png" alt="Keel. The foundation of the ship." width="820">
 </p>
 
 <h1 align="center">Keel ⚓</h1>
@@ -205,17 +205,17 @@ respective licenses, including React, Vite, Express, Tailwind CSS, Motion, Lucid
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="presentation/keel-title.png" alt="Keel title slide" width="100%"><br>
+      <img src="https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-title.png" alt="Keel title slide" width="100%"><br>
       <strong>Title</strong><br>
       <sub>The foundation of the ship.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="presentation/keel-adoption.png" alt="Built for adoption slide" width="100%"><br>
+      <img src="https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-adoption.png" alt="Built for adoption slide" width="100%"><br>
       <strong>Built for Adoption</strong><br>
       <sub>Zero learning curve and ADKAR change management.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="presentation/keel-roadmap.png" alt="Implementation roadmap slide" width="100%"><br>
+      <img src="https://raw.githubusercontent.com/benhildermantelus/cqta-hackathon/submission/team-telus-gtlp/submissions/team-telus-gtlp/presentation/keel-roadmap.png" alt="Implementation roadmap slide" width="100%"><br>
       <strong>Implementation Roadmap</strong><br>
       <sub>Pilot, Integrate, and Scale phases.</sub>
     </td>
